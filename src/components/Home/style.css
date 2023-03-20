@@ -1,0 +1,30 @@
+.class__root{
+    margin: 0 3%;
+}
+.bg-gray{background-color: #caebff;
+height: 100vh !important;
+overflow-y: auto;} 
+.mt-5{margin-top:3%}
+.class__center{
+    display: flex;
+    flex-wrap: wrap;
+}
+.class__center2{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+}
+.employee-list{}
+.row{ display: flex;}
+.column{width: 15vw; border: solid 1px black;background-color: #fff; padding-left: 1vw!important; align-self: center; height: 5vh !important;}
+.class__center{flex-direction: column;}
+.btn_detail{text-decoration: none!important}
+.align-item-center{align-items: center}
+.ml-auto{margin-left: auto!important}
+.form_admin{width: 65vw!important; margin: 0 auto !important}
+.w-100{width: 100%!important}
+.color-brown{color: #15241f}
+.bg-gray{background-color: #caebff!important;}
+.search__input{width: 120%!important}
+.search_form{align-items: center; margin-left: 5%!important; width: 150%}
+.search__btn{margin-left: 2%!important}

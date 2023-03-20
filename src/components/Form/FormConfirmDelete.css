@@ -1,0 +1,5 @@
+.form{padding: 30px!important}
+.form__btn{
+    display:flex;
+}
+.ml-auto{margin-left: auto;}
